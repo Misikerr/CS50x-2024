@@ -79,7 +79,7 @@ I'm **Rio**, a software engineering student at Arbaminch University with big dre
 
 📫 Let's connect:
 - GitHub: [@Misikerr](https://github.com/Misikerr)
-- Telegram: [@Im_1210]
+- Telegram: [@Im_1210](https://t.me/Im_1210)
 - Email: misikergenene622@gmail.com
 
 ---
