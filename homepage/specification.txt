@@ -1,0 +1,17 @@
+HTML Tags:
+1. <nav> - Navigation bar
+2. <ul> - Unordered list in navbar
+3. <button> - Button in the hero section and form submit
+4. <section> - Dividing sections for content
+5. <h1>, <h2> - Headings for titles
+6. <p> - Paragraphs for text
+7. <form> - Form in contact page
+8. <input> - Input fields in the form
+
+CSS:
+1. Background colors, padding, margins
+2. Font styling for headings and buttons
+3. Bootstrap classes used for responsive layout
+
+JavaScript:
+1. `displayAlert` function in the hero section for interactivity.

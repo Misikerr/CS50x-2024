@@ -1,0 +1,22 @@
+/* Styling for different sections */
+.navbar {
+    margin-bottom: 20px;
+}
+
+.hero {
+    background-color: #343a40;
+    padding: 100px 20px;
+}
+
+h1, h2 {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+.container {
+    padding: 40px 20px;
+}
+
+.btn-primary {
+    font-size: 1.2em;
+}
