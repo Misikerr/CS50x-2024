@@ -1,5 +1,3 @@
-Here's your polished `README.md` file, ready to use on GitHub or any project-sharing platform:
-
 ---
 
 # 🎤 Text-to-Speech Converter Web App
