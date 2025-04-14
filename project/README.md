@@ -2,7 +2,6 @@ Here's your polished `README.md` file, ready to use on GitHub or any project-sha
 
 ---
 
-```markdown
 # 🎤 Text-to-Speech Converter Web App
 
 📹 **Video Demo**: [Watch on YouTube](https://youtu.be/Tghq0zjT1G8?si=DAZEnp-no0vlaIYe)
