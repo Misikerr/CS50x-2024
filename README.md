@@ -56,7 +56,7 @@ For the final project, I built a **Text-to-Speech Web Application** using HTML, 
 - Fully responsive design  
 - Works in modern browsers  
 
-🖥️ [Link to the project folder](./final_project)  
+🖥️ [Link to the project folder](./project)  
 (Or host on GitHub Pages for live demo)
 
 ---
