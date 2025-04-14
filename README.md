@@ -42,7 +42,7 @@ I completed all problem sets and labs with full commitment and learned through h
 I'm proud to have earned my **CS50 Certificate**, proving my dedication and ability to solve complex programming problems and understand core CS principles.
 
 🎉 **View my certificate here:**  
-[🔗 CS50x Certificate – Rio](https://cs50.harvard.edu/certificates/YOUR-CERTIFICATE-ID)
+[🔗 CS50x Certificate – Rio]([(https://cs50.harvard.edu/certificates/8380c332-9658-4113-ae9b-d9902e0de983)])
 
 ---
 
