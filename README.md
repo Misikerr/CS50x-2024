@@ -57,7 +57,7 @@ For the final project, I built a **Text-to-Speech Web Application** using HTML, 
 - Works in modern browsers  
 
 🖥️ [Link to the project folder](./project)  
-(Or host on GitHub Pages for live demo)
+
 
 ---
 
