@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: cursive, Arial;
+    box-sizing: border-box;
+}
+
+.hero {
+    width: 100%;
+    min-height: 100vh;
+    background: rgba(4, 27, 50, 0.929);
+    background-image: url(images/flag.png);
+    background-size:contain;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.hero h1 {
+    color: rgb(121, 129, 14);
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: -50px;
+    margin-bottom: 50px;
+}
+
+.hero span {
+    color:#ffc003;
+}
+
+.hero textarea {
+    width: 600px;
+    height: 400px;
+    background: #000000d1;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    border: 0;
+    outline: 0;
+    padding: 20px;
+    border-radius: 10px;
+    resize: none;
+    margin-bottom: 30px;
+}
+
+textarea::placeholder {
+    color: white;
+}
+
+.row {
+    width: 600px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+button {
+    background: #0005079d;
+    color: white;
+    font-size: 16px;
+    padding: 10px 30px;
+    border-radius: 35px;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+button img {
+    width: 16px;
+    margin-right: 10px;
+}
+
+select {
+    background: #0005079d;
+    flex: 1;
+    color: white;
+    height: 50px;
+    padding: 0 20px;
+    outline: 0;
+    border: 0;
+    border-radius: 35px;
+    appearance: none;
+    background-image: url(images/down-chevron.png);
+    background-repeat: no-repeat;
+    background-size: 15px;
+    background-position-x: calc(100% - 20px);
+    background-position-y: 20px;
+}
+/* Medium screens (Tablets, 768px and up) */
+@media (max-width: 768px) {
+    .container {
+        width: 90%;
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 1.8em;
+    }
+
+    textarea {
+        height: 120px;
+        font-size: 0.9em;
+    }
+
+    select, button {
+        font-size: 0.9em;
+        padding: 8px;
+    }
+}
+
+/* Small screens (Mobile devices, 480px and down) */
+@media (max-width: 480px) {
+    .container {
+        width: 95%;
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 1.5em;
+    }
+
+    textarea {
+        height: 100px;
+        font-size: 0.85em;
+    }
+
+    select, button {
+        font-size: 0.85em;
+        padding: 6px;
+    }
+    
+    button {
+        padding: 8px 12px;
+    }
+}
