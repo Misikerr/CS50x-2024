@@ -22,7 +22,7 @@ Built using **HTML**, **CSS**, and **JavaScript**, this app showcases the practi
 - [Project Overview](#-project-overview)
 - [Features](#-features)
 - [Technologies Used](#-technologies-used)
-- [Getting Started](#-getting-started)
+- [Getting Started](#-getting-started) 
 - [Setup Instructions](#-setup-instructions)
 - [Usage](#-usage)
 - [Limitations](#-limitations)
