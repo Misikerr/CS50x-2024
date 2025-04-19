@@ -8,7 +8,7 @@ Welcome to the documentation of my journey through [Harvard's CS50x](https://cs5
 
 [CS50x](https://cs50.harvard.edu/x/) is Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. It covers a wide range of computer science topics, languages, and problem-solving techniques, including:
 
-- **C programming**
+- **C programming** 
 - **Memory management**
 - **Data structures (arrays, linked lists, hash tables, trees)**
 - **Algorithms (searching, sorting, recursion)**
