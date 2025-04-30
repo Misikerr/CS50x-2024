@@ -75,7 +75,7 @@ Through this course, I learned:
 
 ## 👨‍💻 About Me
 
-I'm **Misiker Genene(Rio)**, a software engineering student at Arbaminch University with big dreams of becoming a global software engineer and ethical hacker.
+I'm **Misiker Genene(Rio)**, a software engineering student at Arbaminch University with big dreams of becoming a global software engineer.
 
 📫 Let's connect:
 - GitHub: [@Misikerr](https://github.com/Misikerr)
